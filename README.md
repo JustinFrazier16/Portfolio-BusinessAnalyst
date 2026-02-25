@@ -4,7 +4,7 @@ I'm an achievement-driven business analyst with a business analytics-focused MBA
 
 This repository showcases examples and projects using: Excel, SQL, Python, Power BI, and Looker.
 
-For more information see my [resume](https://github.com/JustinFrazier16/Portfolio-BusinessAnalyst/blob/1aa4fe2c656fa514c71911a46108b528b79515de/Justin_Frazier_Resume.pdf)!
+For more information see my [resume](https://github.com/JustinFrazier16/Portfolio-BusinessAnalyst/blob/df31300d3a0a62e5c5c5370045648d797180fe40/Justin_Frazier_Resume.pdf)!
 
 ## Portfolio Projects
 ### Quantium Retail Strategy & Analysis
