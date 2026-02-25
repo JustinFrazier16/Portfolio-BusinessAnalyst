@@ -2,9 +2,9 @@
 ## About Me
 I'm an achievement-driven business analyst with a business analytics-focused MBA. I have experience working on high budget productions in the film industry and have enabled many teams to effectively perform high-level tasks and assignments, ensuring high performance by spearheading numerous projects, both data-focused and otherwise.
 
-This repository showcases examples and projects using: Excel, SQL, Power BI, and Looker.
+This repository showcases examples and projects using: Excel, SQL, Python, Power BI, and Looker.
 
-For more information see my resume, or find me on LinkedIn.
+For more information see my [resume](https://github.com/JustinFrazier16/Portfolio-BusinessAnalyst/blob/1aa4fe2c656fa514c71911a46108b528b79515de/Justin_Frazier_Resume.pdf)!
 
 ## Contents
 
@@ -35,8 +35,13 @@ For more information see my resume, or find me on LinkedIn.
 **Skills:** SQL, Query Optimization, Data Cleaning, Data Validation, Data Modeling<br>
 
 ### Python Exercises
-**Repository:** <br>
-**Description:** <br>
-**Skills:** <br>
+**Repository:** [Python Exercises](https://github.com/JustinFrazier16/Portfolio-BusinessAnalyst/tree/1aa4fe2c656fa514c71911a46108b528b79515de/Study-Projects/Python%20Exercises)<br>
+**Description:** This repository contains Python exercises completed while obtaining Python courses on Coursera. The main goal for these exercises was to develop a general knowledge of Python to be used in data analysis.
+**Skills:** Python, Data Analysis, Data Visualization
 
 ## Certifications
+[Google Data Analytics Certificate](https://github.com/JustinFrazier16/Portfolio-BusinessAnalyst/blob/1aa4fe2c656fa514c71911a46108b528b79515de/Certifications/Coursera-GoogleDataAnalytics.pdf) - Coursera, 2024
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/justin-frazier16/<br>
+Email: jfazier@yahoo.com
